@@ -16,7 +16,7 @@ You need to install the following Python libraries:
 
 pip install aiohttp dnspython requests pyfiglet colorama
 
-git clone https://github.com/r00tSid/Sub-Enum.git
+git clone https://github.com/abhinavRajput1/Subdomain_Enumeration.git
 
 cd Sub-Enum
 Usage
